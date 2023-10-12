@@ -1,0 +1,72 @@
+
+.container{
+    border: 5px solid white;
+   
+}
+img{
+    width: 63vw;
+    height: 47vw;
+}
+.iconCont{
+    position: relative;
+    bottom: 360px;
+    color: white;
+}
+.fa-solid.fa-angle-left{
+    font-size:100px;
+    position: relative;
+    left: 10px;
+}
+.fa-solid.fa-angle-right{
+    position: relative;
+    font-size: 100px;
+    left: 51vw;
+}
+.dateCont{
+    position: relative;
+    bottom: 200px;
+    color: white;
+    background-color: rgb(65, 165, 161);
+    width: 18vw;
+    height: 3vw;
+    opacity: 0.8;
+}
+span{
+    font-family: 'Pixelify Sans', sans-serif;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 700;
+    font-size: 22px;
+}
+.month{
+    position: relative;
+    left: 24px;
+    top: 9px;
+}
+.clock{
+    position: relative;
+    left: 30px;
+    top: 9px;
+}
+
+.number{
+    position: relative;
+    left: 70px;
+    top: 9px;
+}
+.textCont{
+   
+    width: 63vw;
+    height: 100px;
+    padding: 22px;
+    bottom: 200px;
+    color: white;
+    position: relative;
+    font-family: 'Pixelify Sans', sans-serif;
+    font-family: 'Roboto', sans-serif;
+    background-color: rgb(42, 40, 40);
+    font-size: 31px;
+}
+.text{
+    bottom: 8px;
+    position: relative;
+}
